@@ -47,6 +47,4 @@ Checks if the input string is a palindrome and prints the result.
 
 - Java SE 8 or higher
 
-## License
 
-This project is open source and available under the MIT License.
